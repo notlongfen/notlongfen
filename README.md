@@ -11,7 +11,7 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
 
 - 💬 Ask me about **Blockchain, Nodejs, Solidity...**
 
-- 📫 How to reach me **phannguyemhoanglong@gmail.com**
+- 📫 How to reach me **phannguyenhoanglong@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
