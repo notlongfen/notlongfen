@@ -7,7 +7,7 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
 
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wqoatxsmdxszi4kzxv1v8jhbbu21tk9zifbdgmu9&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **Software engineer at UIT**
+- 🌱 I’m currently learning **Software engineer at FPT**
 
 - 💬 Ask me about **Blockchain, Nodejs, Solidity...**
 
