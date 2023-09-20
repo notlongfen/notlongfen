@@ -28,9 +28,11 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
 <a><img src = "https://skillicons.dev/icons?i=html,css,cpp,cs,solidity,java,rust,js,ts,nodejs,mysql,git"></a>
 
 <a><img src = "https://skillicons.dev/icons?i=docker,vscode,visualstudio,linux,idea,github"></a>
-
+<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&redirect=true)
 <!--  -->
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=teec30x2r6z84zmb6y5ljnesw&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=teec30x2r6z84zmb6y5ljnesw&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)
+<!-- <!-- -->
 <p>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=notlongfen&show_icons=true&locale=en&layout=compact" alt="notlongfen" height="165">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notlongfen&show_icons=true&locale=en" alt="notlongfen" height="165">
