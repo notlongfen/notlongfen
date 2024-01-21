@@ -38,3 +38,6 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notlongfen&show_icons=true&locale=en" alt="notlongfen" height="165">
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=notlongfen&" alt="notlongfen" /></p>
+
+<img alt = "banner" style = "width: 100vw" src = "https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e473pa24jgi6maew91r5tntujnt8xjstxw6uys5dz0i&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img alt = "banner" style = "width:50vw" src = "https://media1.giphy.com/media/FoVzfcqCDSb7zCynOp/200w.webp?cid=ecf05e47fuqeu5q3kgxia2ca5zhk070b47axwq77316sgbl8&ep=v1_gifs_search&rid=200w.webp&ct=g">
