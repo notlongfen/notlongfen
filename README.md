@@ -27,7 +27,7 @@ I am extremely motivated to constantly develop my skills and knowledge, especial
 
 <a><img src = "https://skillicons.dev/icons?i=html,tailwindcss,cpp,cs,solidity,java,go,rust,js,ts,nodejs,mysql,git,mongodb"></a>
 
-<a><img src = "https://skillicons.dev/icons?i=docker,vscode,visualstudio,linux,idea,github,nextjs"></a>
+<a><img src = "https://skillicons.dev/icons?i=docker,vscode,visualstudio,linux,idea,github,nextjs,neovim"></a>
 <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=313ashihwo4yydy4pgwktasgc6vu&redirect=true)
 <!--  -->
